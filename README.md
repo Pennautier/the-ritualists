@@ -3,8 +3,7 @@ There have been reports that in the village of Pennaultier, rituals have been ta
 
 ## Items needed
 - Two different color dices, but one will suffice
-- The Covenstead board
-
+- The Covenstead board (A 3d-model of the board can be downloaded here: [The Convenstead 3d-board](https://makerworld.com/en/models/987530#profileId-962483))
 ## The rules
 You need five or six Meeples before the ritual can start. The fifth player who enters their Meeple in the Ritual, is asked to start the ceremony early, or wait for a sixth player. When decided to wait, the sixth player has to start the ritual at the time when the Meeple enters the Convenstead.
 
